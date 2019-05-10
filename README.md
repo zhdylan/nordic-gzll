@@ -1,4 +1,4 @@
-# nordic-gzll
+# Nordic Gazell Protocol
 Nordic gazell protocol 1vs2 with a time sync feature and 240Hz date report rate
 
 Gazell is a lightweight, low power, and easy-to-use protocol with advanced coexistence features expecially suited for wireless desktop products and other power-sensitive wireless applications. It is on-air compatible with Gazell on Nordic's nRF24Lxx ICs, and can share an nRF5 Series device with a Nordic SoftDevice.
